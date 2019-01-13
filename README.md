@@ -2,4 +2,4 @@
 
 Probabilistic Systems Analysis and Applied Probability (Instructor : Prof. John Tsitsiklis)
 
-Lecture note and cheating sheet for final exam 
+Lecture note and cheating sheets for final exam 
